@@ -8,7 +8,7 @@
 
 ## How to Install:
 
-- Download the release Mozilla signed xpi file,
+- Download the [released Mozilla signed xpi file](https://github.com/Nipsy90/Auto-Youtube-Shorts-Scroller/releases),
 - Open Firefox and go to `about:addons`,
 - Click on the Cogwheel and select "Install Add-on From File",
 - Select the xpi file and enjoy.
