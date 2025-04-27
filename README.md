@@ -6,9 +6,7 @@
 
 #### Whenever a YT Short ends, the extension will automatically scroll to the next one for you. Great for doing homework and watching Shorts at the same time without the need to switch tabs!
 
-## Firefox Add-On
-
-**How to Install:**
+## How to Install:
 
 - Download the release Mozilla signed xpi file,
 - Open Firefox and go to `about:addons`,
