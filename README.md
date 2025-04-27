@@ -1,6 +1,6 @@
 # [Auto-Youtube-Shorts-Scroller](https://github.com/Nipsy90/Auto-Youtube-Shorts-Scroller)
 
-## A FIrefox Extension/Bookmarklet that adds an auto-scroll feature on Youtube so you can watch Shorts without the need to touch your mouse.
+## A FIrefox Extension that adds an auto-scroll feature on Youtube so you can watch Shorts without the need to touch your mouse.
 
 <img src="./extension/img/autoYTScrollerIcon128.png"/>
 
