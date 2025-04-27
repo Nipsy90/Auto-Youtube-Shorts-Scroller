@@ -15,6 +15,4 @@
 - Click on the Cogwheel and select "Install Add-on From File",
 - Select the xpi file and enjoy.
 
-##### If you have any suggestions or experience problems, post an issue on the GitHub page: [https://github.com/Tyson3101/Auto-Youtube-Shorts-Scroller/issues](https://github.com/Tyson3101/Auto-Youtube-Shorts-Scroller/issues)
-
 ###### Originally Created by Tyson3101 for [Chromium](https://github.com/Tyson3101/Auto-Youtube-Shorts-Scroller)
